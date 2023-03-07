@@ -1,0 +1,1 @@
+let loaders = $('.loader-inner').loaders();
